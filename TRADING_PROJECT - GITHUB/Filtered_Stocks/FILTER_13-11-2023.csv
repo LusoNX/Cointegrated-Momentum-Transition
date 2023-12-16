@@ -1,0 +1,4 @@
+,ID,Name,Symbol,GICS Sector,Relative Sector Valuation,Absolute Sector Valuation,30D Momentum Transition,90D Momentum Transition,1Y Momentum Transition,30D Momentum Label,90D Momentum Label,1Y Momentum Label
+0,85,Camden Property Trust,CPT,Real Estate,Undervalued,Very Undervalued,1.0,-1.0,1.0,Low,Very Low,Low
+1,268,Johnson & Johnson,JNJ,Health Care,Undervalued,Very Undervalued,2.0,-1.0,1.0,Normal,Normal,Normal
+2,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,-1.0,1.0,High,Low,High

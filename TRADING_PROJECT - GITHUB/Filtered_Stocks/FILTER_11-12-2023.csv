@@ -1,0 +1,5 @@
+,ID,Name,Symbol,GICS Sector,Relative Sector Valuation,Absolute Sector Valuation,30D Momentum Transition,90D Momentum Transition,1Y Momentum Transition,30D Momentum Label,90D Momentum Label,1Y Momentum Label
+0,269,Johnson Controls,JCI,Industrials,Very Undervalued,Very Undervalued,3.0,0.0,0.0,High,Very Low,Very Low
+1,285,Lam Research,LRCX,Information Technology,Very Undervalued,Undervalued,2.0,-1.0,0.0,High,Low,Very High
+2,326,Monolithic Power Systems,MPWR,Information Technology,Undervalued,Undervalued,4.0,3.0,0.0,Very High,High,High
+3,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,3.0,0.0,0.0,High,Very Low,Very Low

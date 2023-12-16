@@ -1,0 +1,7 @@
+,ID,Name,Symbol,GICS Sector,Relative Sector Valuation,Absolute Sector Valuation,30D Momentum Transition,90D Momentum Transition,1Y Momentum Transition,30D Momentum Label,90D Momentum Label,1Y Momentum Label
+0,4,Accenture,ACN,Information Technology,Undervalued,Undervalued,0.0,0.0,1.0,Normal,Normal,Normal
+1,85,Camden Property Trust,CPT,Real Estate,Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low
+2,269,Johnson Controls,JCI,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low
+3,285,Lam Research,LRCX,Information Technology,Very Undervalued,Undervalued,2.0,-1.0,0.0,High,Low,Very High
+4,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Undervalued,4.0,2.0,0.0,Very High,Normal,High
+5,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Normal,Very Low,Very Low

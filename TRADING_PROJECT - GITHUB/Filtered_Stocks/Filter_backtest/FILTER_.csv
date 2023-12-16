@@ -1,0 +1,82 @@
+,ID,Name,Symbol,GICS Sector,Relative Sector Valuation,Absolute Sector Valuation,30D Momentum Transition,90D Momentum Transition,1Y Momentum Transition,30D Momentum Label,90D Momentum Label,1Y Momentum Label,Date
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,1.0,0.0,0.0,Normal,Low,Normal,2023-10-15
+1,121,Colgate-Palmolive,CL,Consumer Staples,Very Undervalued,Undervalued,2.0,1.0,1.0,Very High,High,High,2023-10-15
+2,235,Hologic,HOLX,Health Care,Very Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-15
+3,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,1.0,-1.0,2.0,Low,Low,High,2023-10-15
+4,392,Quest Diagnostics,DGX,Health Care,Undervalued,Very Undervalued,2.0,0.0,0.0,High,Normal,Normal,2023-10-15
+5,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,1.0,0.0,Low,Low,Very Low,2023-10-15
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,1.0,0.0,0.0,Normal,Low,Normal,2023-10-16
+1,121,Colgate-Palmolive,CL,Consumer Staples,Very Undervalued,Undervalued,2.0,1.0,1.0,Very High,High,High,2023-10-16
+2,235,Hologic,HOLX,Health Care,Very Undervalued,Very Undervalued,0.0,1.0,0.0,Normal,Low,Normal,2023-10-16
+3,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,1.0,-1.0,2.0,Low,Low,High,2023-10-16
+4,392,Quest Diagnostics,DGX,Health Care,Undervalued,Very Undervalued,2.0,-1.0,0.0,High,Low,Normal,2023-10-16
+5,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low,2023-10-16
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,1.0,0.0,0.0,Normal,Low,Normal,2023-10-17
+1,121,Colgate-Palmolive,CL,Consumer Staples,Very Undervalued,Undervalued,2.0,1.0,1.0,Very High,High,High,2023-10-17
+2,235,Hologic,HOLX,Health Care,Very Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-17
+3,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,0.0,-1.0,2.0,Very Low,Low,High,2023-10-17
+4,392,Quest Diagnostics,DGX,Health Care,Undervalued,Very Undervalued,2.0,-1.0,0.0,High,Low,Normal,2023-10-17
+5,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low,2023-10-17
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-10-18
+1,235,Hologic,HOLX,Health Care,Very Undervalued,Very Undervalued,1.0,1.0,1.0,Normal,Low,High,2023-10-18
+2,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,0.0,-1.0,2.0,Very Low,Low,High,2023-10-18
+3,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Very Low,2023-10-18
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,1.0,Normal,Low,High,2023-10-19
+1,351,NXP Semiconductors,NXPI,Information Technology,Undervalued,Undervalued,1.0,-1.0,1.0,Low,Normal,High,2023-10-19
+2,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Very Low,2023-10-19
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,1.0,Normal,Low,High,2023-10-20
+1,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Very Low,2023-10-20
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-21
+1,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Very Low,2023-10-21
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-22
+1,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Very Low,2023-10-22
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-10-23
+1,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-23
+2,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Very Low,2023-10-23
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-10-24
+1,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-24
+2,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,1.0,1.0,Normal,Low,Low,2023-10-24
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Very Undervalued,0.0,1.0,0.0,Low,Low,Normal,2023-10-25
+1,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-25
+2,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,2.0,0.0,1.0,Normal,Very Low,Low,2023-10-25
+0,38,Analog Devices,ADI,Information Technology,Undervalued,Undervalued,0.0,1.0,0.0,Low,Low,Normal,2023-10-26
+1,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,1.0,Normal,Low,High,2023-10-26
+0,4,Accenture,ACN,Information Technology,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Normal,Normal,Low,2023-10-27
+1,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,0.0,Normal,Low,Normal,2023-10-27
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-10-28
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,0.0,Normal,Low,Normal,2023-10-29
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,0.0,Normal,Low,Normal,2023-10-30
+1,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low,2023-10-30
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,0.0,1.0,0.0,Normal,Low,Normal,2023-10-31
+1,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,-1.0,1.0,High,Low,High,2023-10-31
+2,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low,2023-10-31
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-11-01
+1,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,-1.0,2.0,High,Low,High,2023-11-01
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,2.0,1.0,0.0,Normal,Low,Normal,2023-11-02
+1,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,4.0,1.0,2.0,Very High,Low,High,2023-11-02
+0,235,Hologic,HOLX,Health Care,Undervalued,Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-11-03
+1,285,Lam Research,LRCX,Information Technology,Undervalued,Undervalued,3.0,0.0,-1.0,High,Normal,High,2023-11-03
+2,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,4.0,1.0,2.0,Very High,Low,High,2023-11-03
+3,377,Pool Corporation,POOL,Consumer Discretionary,Undervalued,Undervalued,0.0,-1.0,2.0,Normal,Normal,High,2023-11-03
+0,235,Hologic,HOLX,Health Care,Undervalued,Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-11-04
+1,285,Lam Research,LRCX,Information Technology,Undervalued,Undervalued,3.0,0.0,-1.0,High,Normal,High,2023-11-04
+2,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,1.0,0.0,Very High,Low,High,2023-11-04
+3,377,Pool Corporation,POOL,Consumer Discretionary,Undervalued,Undervalued,0.0,-1.0,2.0,Normal,Normal,High,2023-11-04
+0,235,Hologic,HOLX,Health Care,Undervalued,Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-11-05
+1,285,Lam Research,LRCX,Information Technology,Undervalued,Undervalued,3.0,0.0,-1.0,High,Normal,High,2023-11-05
+2,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,0.0,0.0,Very High,Low,High,2023-11-05
+3,377,Pool Corporation,POOL,Consumer Discretionary,Undervalued,Undervalued,0.0,-1.0,2.0,Normal,Normal,High,2023-11-05
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,2.0,1.0,0.0,High,Low,Normal,2023-11-06
+1,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,0.0,0.0,Very High,Low,High,2023-11-06
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,0.0,Normal,Low,Normal,2023-11-07
+1,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,0.0,0.0,Very High,Low,High,2023-11-07
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,-1.0,Normal,Normal,Normal,2023-11-08
+1,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,2.0,0.0,0.0,Very High,Low,High,2023-11-08
+2,474,Viatris,VTRS,Health Care,Very Undervalued,Undervalued,2.0,0.0,-1.0,Normal,High,Low,2023-11-08
+0,235,Hologic,HOLX,Health Care,Undervalued,Very Undervalued,1.0,1.0,-1.0,Normal,Normal,Normal,2023-11-09
+1,474,Viatris,VTRS,Health Care,Very Undervalued,Undervalued,2.0,0.0,-1.0,Normal,High,Low,2023-11-09
+0,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,2.0,0.0,0.0,High,Low,High,2023-11-11
+0,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,2.0,0.0,0.0,High,Low,High,2023-11-12
+1,474,Viatris,VTRS,Health Care,Very Undervalued,Undervalued,1.0,1.0,-1.0,Low,High,Low,2023-11-12
+0,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,2.0,0.0,0.0,High,Low,High,2023-11-13
+0,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,2.0,0.0,0.0,High,Low,High,2023-11-14

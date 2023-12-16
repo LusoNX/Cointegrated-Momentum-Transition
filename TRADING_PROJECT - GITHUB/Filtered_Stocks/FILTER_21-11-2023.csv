@@ -1,0 +1,5 @@
+,ID,Name,Symbol,GICS Sector,Relative Sector Valuation,Absolute Sector Valuation,30D Momentum Transition,90D Momentum Transition,1Y Momentum Transition,30D Momentum Label,90D Momentum Label,1Y Momentum Label
+0,4,Accenture,ACN,Information Technology,Undervalued,Very Undervalued,1.0,0.0,0.0,Normal,Normal,Normal
+1,285,Lam Research,LRCX,Information Technology,Undervalued,Undervalued,4.0,1.0,0.0,Very High,High,Very High
+2,326,Monolithic Power Systems,MPWR,Information Technology,Very Undervalued,Very Undervalued,3.0,0.0,0.0,Very High,Low,High
+3,462,United Parcel Service,UPS,Industrials,Very Undervalued,Very Undervalued,1.0,0.0,0.0,Low,Very Low,Very Low
